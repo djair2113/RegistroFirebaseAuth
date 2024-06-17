@@ -1,0 +1,16 @@
+{
+    "name": "admin/firebaseauth",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Firebaseauth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "djair2113",
+            "email": "djair2113@hotmail.com"
+        }
+    ],
+    "require": {}
+}
